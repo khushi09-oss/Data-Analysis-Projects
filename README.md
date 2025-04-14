@@ -16,6 +16,11 @@ Each folder in this repository represents a different project. Below is a quick 
 - **Tools Used:** Python, Pandas, Matplotlib
 - **Skills Demonstrated:** Time series analysis, data visualization, insights generation
 
+### 3. 📕Analyzing best selling amazon books
+- **Description:** Analyze the top selling books on amazon from 2009 to 2019.
+- **Tools Used:** Python, Pandas
+- **Skills Demonstrated:** Analysis, insights
+
 
 ## 🛠️ Technologies Used
 

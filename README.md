@@ -1,5 +1,3 @@
-# Data-Analysis-Projects
-
 # 📊 Data Analysis Projects
 
 Welcome to my **Data Analysis Projects** repository! This repo is a collection of various data analysis projects I’ve worked on, covering topics such as data cleaning, visualization, exploratory data analysis (EDA), statistical modeling, and basic machine learning. These projects demonstrate the use of tools like Python, Pandas, NumPy, Matplotlib, and Jupyter Notebooks.
